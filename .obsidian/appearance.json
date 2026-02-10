@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Cupertino",
+  "interfaceFontFamily": "微软雅黑,LXGW WenKai Mono",
+  "textFontFamily": "微软雅黑,LXGW WenKai Mono",
+  "monospaceFontFamily": "微软雅黑,LXGW WenKai Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "accentColor": "#16303c",
+  "theme": "moonstone"
+}

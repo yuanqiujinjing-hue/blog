@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "copilot-command-model-key": "datetime",
+    "name": "multitext"
+  }
+}

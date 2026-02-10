@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "f945300c9271f6db",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d997e1dc8b94e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eceaec82cb45bdac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "b97272a99c935155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/AI/Openai codex/OpenAI GPT-5.3-Codex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenAI GPT-5.3-Codex"
+            }
+          },
+          {
+            "id": "0edc426cd3e16413",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "网安/无人机/无人机安全培训/Day1_教学文档.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Day1_教学文档"
+            }
+          },
+          {
+            "id": "7bae35679b147fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/同步.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "同步"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cda2c88dfb3893ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a545d9e28512b3",
+        "type": "tabs",
+        "dimension": 77.28194726166329,
+        "children": [
+          {
+            "id": "666d9319992bf927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1fd4896b75bc08ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec44d968f46df156",
+        "type": "tabs",
+        "dimension": 22.718052738336713,
+        "children": [
+          {
+            "id": "022b95717561ab65",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bce58733615b4d5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "03baa997f84ff92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "af4b2fb6bd2d7112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6198df3e8562066d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/同步.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "同步 的大纲"
+            }
+          },
+          {
+            "id": "0fb80f73ef434751",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "车联网/靶场.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "靶场 的反向链接列表"
+            }
+          },
+          {
+            "id": "2c5d210208f3f216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "车联网/靶场.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "靶场 的出链列表"
+            }
+          },
+          {
+            "id": "a233c8fcf1c77e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cfbf05e21285b2a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "7bae35679b147fec",
+  "lastOpenFiles": [
+    "README.md",
+    "知识库/AI/Openai codex.7z",
+    "知识库/AI/Openai codex.7z.tmp",
+    "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex/file-20260209104511062.png",
+    "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex/file-20260209102713889.png",
+    "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex/file-20260209102643201.png",
+    "知识库/AI/Openai codex/OpenAI GPT-5.3-Codex.md",
+    "知识库/AI/Openai codex/OpenAI GPT-5.3-Codex.assets/file-20260209102643201.png",
+    "知识库/AI/Openai codex/OpenAI GPT-5.3-Codex.assets",
+    "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex",
+    "知识库/AI/Openai codex/assets",
+    "知识库/AI/Openai codex",
+    "知识库/AI/assets/OpenAI GPT-5.3-Codex",
+    "知识库/AI/assets",
+    "知识库/网站部署.md",
+    "知识库/AI/Claude code/Claude code部署.md",
+    "知识库/AI/Claude code/Claude code使用.md",
+    "知识库/AI/Skill/Skill详解/详解.md",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204093502337.png",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204093432932.png",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204093409201.png",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204093301053.png",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204093007519.png",
+    "知识库/AI/Skill/Skill详解/assets/详解/file-20260204092916368.png",
+    "知识库/AI/Skill/Skill详解",
+    "知识库/AI/Skill/Skill详解/assets/详解",
+    "知识库/AI/Skill/qiuzhi-skill-creator模板/references/best-practices.md",
+    "知识库/AI/Skill/qiuzhi-skill-creator模板/SKILL.md",
+    "知识库/AI/Skill/qiuzhi-skill-creator模板/references/interaction-guide.md",
+    "知识库/AI/Skill/qiuzhi-skill-creator模板/references/output-patterns.md",
+    "知识库/AI/Skill/qiuzhi-skill-creator模板/references/workflows.md",
+    "知识库/AI/提示词/视频内容分析及学习大纲生成 AI提示词.md",
+    "知识库/AI/Skill/Skills/SKILL.md",
+    "网安/无人机/无人机安全培训/Day2_网络攻击实战演练.md",
+    "任务/知识分享/如何在Kali Linux 虚拟机中完整搭建并运行Damn-Vulnerable-Drone（DVD）环境.md",
+    "网安/无人机/无人机安全培训/Day2练习.md",
+    "网安/无人机/无人机安全培训/Day1_练习.md",
+    "知识库/AI/Skill/SKILL.md.md",
+    "知识库/AI/搜索优化/搜索技术，普通人变强的唯一外挂.md",
+    "工作/Wisdom/Wisdom安装详解.md",
+    "工作/Wisdom/WIFI已知漏洞检测培训PPT.md",
+    "工作/Wisdom/使用Wisdom复现手机蓝牙漏洞.md",
+    "工作/车机分析报告/车机分析报告.md",
+    "任务/搭建/无人机靶场搭建和漏洞，知识分享.md",
+    "网安/车联网/VSEC靶场.md",
+    "网安/车联网/硬件安全.md",
+    "未命名.canvas"
+  ]
+}

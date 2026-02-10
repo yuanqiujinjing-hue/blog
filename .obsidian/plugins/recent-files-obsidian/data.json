@@ -1,0 +1,184 @@
+{
+  "recentFiles": [
+    {
+      "basename": "同步",
+      "path": "source/_posts/同步.md"
+    },
+    {
+      "basename": "Clip Web Page",
+      "path": "copilot/copilot-custom-prompts/Clip Web Page.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "OpenAI GPT-5.3-Codex",
+      "path": "知识库/AI/Openai codex/OpenAI GPT-5.3-Codex.md"
+    },
+    {
+      "basename": "file-20260209102713889",
+      "path": "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex/file-20260209102713889.png"
+    },
+    {
+      "basename": "file-20260209102643201",
+      "path": "知识库/AI/Openai codex/assets/OpenAI GPT-5.3-Codex/file-20260209102643201.png"
+    },
+    {
+      "basename": "网站部署",
+      "path": "知识库/网站部署.md"
+    },
+    {
+      "basename": "Claude code部署",
+      "path": "知识库/AI/Claude code/Claude code部署.md"
+    },
+    {
+      "basename": "Claude code使用",
+      "path": "知识库/AI/Claude code/Claude code使用.md"
+    },
+    {
+      "basename": "详解",
+      "path": "知识库/AI/Skill/Skill详解/详解.md"
+    },
+    {
+      "basename": "file-20260204092916368",
+      "path": "知识库/AI/Skill/Skill详解/assets/详解/file-20260204092916368.png"
+    },
+    {
+      "basename": "best-practices",
+      "path": "知识库/AI/Skill/qiuzhi-skill-creator模板/references/best-practices.md"
+    },
+    {
+      "basename": "SKILL",
+      "path": "知识库/AI/Skill/qiuzhi-skill-creator模板/SKILL.md"
+    },
+    {
+      "basename": "interaction-guide",
+      "path": "知识库/AI/Skill/qiuzhi-skill-creator模板/references/interaction-guide.md"
+    },
+    {
+      "basename": "output-patterns",
+      "path": "知识库/AI/Skill/qiuzhi-skill-creator模板/references/output-patterns.md"
+    },
+    {
+      "basename": "workflows",
+      "path": "知识库/AI/Skill/qiuzhi-skill-creator模板/references/workflows.md"
+    },
+    {
+      "basename": "视频内容分析及学习大纲生成 AI提示词",
+      "path": "知识库/AI/提示词/视频内容分析及学习大纲生成 AI提示词.md"
+    },
+    {
+      "basename": "Day2_网络攻击实战演练",
+      "path": "网安/无人机/无人机安全培训/Day2_网络攻击实战演练.md"
+    },
+    {
+      "basename": "如何在Kali Linux 虚拟机中完整搭建并运行Damn-Vulnerable-Drone（DVD）环境",
+      "path": "任务/知识分享/如何在Kali Linux 虚拟机中完整搭建并运行Damn-Vulnerable-Drone（DVD）环境.md"
+    },
+    {
+      "basename": "Day1_教学文档",
+      "path": "网安/无人机/无人机安全培训/Day1_教学文档.pdf"
+    },
+    {
+      "basename": "Day2_网络攻击实战演练",
+      "path": "网安/无人机/无人机安全培训/Day2_网络攻击实战演练.pdf"
+    },
+    {
+      "basename": "Day2练习",
+      "path": "网安/无人机/无人机安全培训/Day2练习.md"
+    },
+    {
+      "basename": "Day1_练习",
+      "path": "网安/无人机/无人机安全培训/Day1_练习.md"
+    },
+    {
+      "basename": "Day3-注入与渗透攻击",
+      "path": "网安/无人机/无人机安全培训/Day3-注入与渗透攻击.pdf"
+    },
+    {
+      "basename": "如何在Kali Linux 虚拟机中完整搭建并运行Damn-Vulnerable-Drone（DVD）环境",
+      "path": "任务/知识分享/如何在Kali Linux 虚拟机中完整搭建并运行Damn-Vulnerable-Drone（DVD）环境.pdf"
+    },
+    {
+      "basename": "搜索技术，普通人变强的唯一外挂",
+      "path": "知识库/AI/搜索优化/搜索技术，普通人变强的唯一外挂.md"
+    },
+    {
+      "basename": "Wisdom安装详解",
+      "path": "工作/Wisdom/Wisdom安装详解.md"
+    },
+    {
+      "basename": "WIFI已知漏洞检测培训PPT",
+      "path": "工作/Wisdom/WIFI已知漏洞检测培训PPT.md"
+    },
+    {
+      "basename": "使用Wisdom复现手机蓝牙漏洞",
+      "path": "工作/Wisdom/使用Wisdom复现手机蓝牙漏洞.md"
+    },
+    {
+      "basename": "车机分析报告",
+      "path": "工作/车机分析报告/车机分析报告.md"
+    },
+    {
+      "basename": "VSEC靶场",
+      "path": "网安/车联网/VSEC靶场.md"
+    },
+    {
+      "basename": "硬件安全",
+      "path": "网安/车联网/硬件安全.md"
+    },
+    {
+      "basename": "汽车无线安全",
+      "path": "网安/车联网/汽车无线安全.md"
+    },
+    {
+      "basename": "学习路径",
+      "path": "网安/Web安全/学习路径.md"
+    },
+    {
+      "basename": "无人机、无人船通信协议——MAVLink（V1.0、V2.0，心跳包，GPS定位，7种飞行模式）",
+      "path": "网安/无人机/练习/无人机、无人船通信协议——MAVLink（V1.0、V2.0，心跳包，GPS定位，7种飞行模式）.md"
+    },
+    {
+      "basename": "练习",
+      "path": "网安/无人机/练习/练习.md"
+    },
+    {
+      "basename": "file-20260127172219639",
+      "path": "网安/无人机/无人机安全培训/assets/Day2练习/file-20260127172219639.png"
+    },
+    {
+      "basename": "file-20260127172130227",
+      "path": "网安/无人机/无人机安全培训/assets/Day2练习/file-20260127172130227.png"
+    },
+    {
+      "basename": "file-20260129170149021",
+      "path": "网安/无人机/无人机安全培训/assets/Day1_练习/file-20260129170149021.png"
+    },
+    {
+      "basename": "无人机安全Kali靶场",
+      "path": "网安/无人机/练习/无人机安全Kali靶场.md"
+    },
+    {
+      "basename": "file-20260127091844960",
+      "path": "网安/无人机/练习/assets/练习/file-20260127091844960.png"
+    },
+    {
+      "basename": "file-20260127091815990",
+      "path": "网安/无人机/练习/assets/练习/file-20260127091815990.png"
+    },
+    {
+      "basename": "DVWA靶场",
+      "path": "网安/Web安全/DWVA靶场/DVWA靶场.md"
+    },
+    {
+      "basename": "CSRF",
+      "path": "网安/Web安全/DWVA靶场/CSRF.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
